@@ -1,0 +1,15 @@
+{
+    "short_name": "Yuan",
+    "name": "Yuan",
+    "icons": [
+        {
+          "src": "icons/icon.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+    ],
+    "start_url": "http://140.114.26.148:9984/",
+    "background_color": "#000",
+    "theme_color": "#536878",
+    "display": "standalone"
+}
