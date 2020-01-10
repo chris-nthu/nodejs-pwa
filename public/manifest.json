@@ -8,7 +8,7 @@
           "type": "image/png"
         }
     ],
-    "start_url": "http://140.114.26.148:9984/",
+    "start_url": "http://140.114.26.148:80/",
     "background_color": "#000",
     "theme_color": "#536878",
     "display": "standalone"
