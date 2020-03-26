@@ -1,0 +1,80 @@
+1. 
+Good afternoon, sir. It's really my honor to have the opportunity for this interview. My Chinese name is 陳文遠 and you can just call me Chris which is my English name.
+
+Excuse me should I have a simple self-introduction in this presentation?
+And since I don't have many projects about algorithm, may I present other projects to replace?
+
+I'll divide the presentation into two parts. Part1 is for my self-introduction, and part2 is for presenting my project.
+
+=======================================================================================================
+2.
+So let take a look part1.
+
+=======================================================================================================
+3.
+I graduated from Feng Chia University and majored in Communication Engineering.
+
+Currently, I'm studying in the first year of master degree at Tsing Hua University and also major in Communication Engineering. And I expect to graduate in 2021.
+
+I got a certificate of National University Competition of Python in 2018. My topic of independent study in University is VoIP phone call monitoring platform which is to build a web application to provide VoIP phone call monitoring and management service. I take this topic to publish on domestic conference, IMP2017 and got honorable mention award from independent study competition in 2017.
+
+=======================================================================================================
+4.
+Here is the table shows what I have done.
+Such as ....
+And the programming language I'm most familiar with is C language.
+
+=======================================================================================================
+5.
+In part2, I'll present some projects that I had done.
+But maybe it's not related to algorithm.
+
+=======================================================================================================
+6.
+The first project is VoIP phone call monitoring platform.
+What we need in this environment is a client, a server, one or more people, a switch or an AP.
+
+=======================================================================================================
+7.
+This is a simplified flowchart of this system.
+We have a physical web page, so client can type in password. If the password is correct, client will be forwarded to monitoring page and management page. In monitoring page, client can use monitoring service to scan their local area network. The server will detect whether someone is on the phone. If the answer is yes, client can selects someone who wants to monitor. Then the server will monitor the person and store the audio data into database.
+
+=======================================================================================================
+8.
+
+9.
+
+10.
+
+11.
+
+=======================================================================================================
+12.
+Chaincode is the same as smartcontract in Ethereum, one of the most famous blockchain system in the world.
+In general, if we submit collected data into blockchain, blockchain will validate the event and create a new block in the blockchain ledger.
+
+=======================================================================================================
+13.
+So I design a block-listener to receive the event when the node is creating block. Then dump the event and parse the block information.
+
+=======================================================================================================
+14.
+Finally, I store the block and transaction information into database.
+Then we can just query data from database instead of blockchain ledger.
+
+
+=======================================================================================================
+15.
+In this project, there are some issues need to be discussed.
+If we adopt our proposed method, query data from the database is nearly 50 times faster than query from blockchain ledger.
+
+But it also has some disavantage. We know that blockchain has immutable property, but now, data in database can be changed. So we destroy the feature of blockchain.
+
+Therefore, this project is incomplete. ....
+
+=======================================================================================================
+16.
+The last project is convex hull algorithm.
+The purpose is just to learn how to solve convex hull problem.
+
+...
